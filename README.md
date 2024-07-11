@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zulaiga74
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing my UG Degree in Electronics and Instrumentation Engineering
-- ✉️ Zulaigaasan74@gmail.com
+- 👀 I’m interested in Web Development
 - 🔗 https://www.linkedin.com/in/zulaiga-asan-171600254/
 
 
